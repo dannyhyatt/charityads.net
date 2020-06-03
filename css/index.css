@@ -1,3 +1,18 @@
 html, body {
     height: 100%;
 }
+
+.inline-icon {
+    display: inline;
+    height: 0.8em;
+}
+
+.icon {
+    display: inline;
+    height: 2.4em;
+    margin-right: 1em;
+}
+
+.no-margin {
+    margin: 0;
+}
