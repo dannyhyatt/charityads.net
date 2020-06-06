@@ -25,11 +25,3 @@ body {
 min-h-100 {
     min-height: 100%;
 }
-
-div {
-    background-color: rgb(124, 177, 100);
-}
-
-h1 {
-    background-color: rgb(66, 103, 151);
-}
