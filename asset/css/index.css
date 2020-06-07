@@ -33,3 +33,12 @@ body {
 .padding-top {
     padding-top: 15px;
 }
+
+#nyt-video {
+    min-height: 300px;
+    width: 100%;
+}
+
+img {
+    width: 100%;
+}
